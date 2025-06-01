@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello remote
+=======
+hello local
+>>>>>>> 770e785 (committed)
